@@ -2,6 +2,7 @@
 
 * Студент: [Владимир Полозов](https://up.htmlacademy.ru/htmlcss/40/user/1246231).
 * Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
+* Сайт: [Мой проект: "Седона"](https://redshucov.github.io/1246231-sedona-40/).
 
 ---
 
